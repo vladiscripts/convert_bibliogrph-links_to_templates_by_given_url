@@ -5,5 +5,5 @@ Wiki: Полуавтоматический конвертор библиогра
 
 Использует:
 * парсер вики-разметки: https://github.com/earwig/mwparserfromhell  
-* библиотеку под этот парсер lib_for_mwparserfromhell: https://github.com/vladiscripts/commons_libs
+* Мою библиотеку под этот парсер lib_for_mwparserfromhell: https://github.com/vladiscripts/commons_libs
 
